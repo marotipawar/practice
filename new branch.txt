@@ -1,3 +1,7 @@
 New Branch created USA team
+<<<<<<< HEAD
 changes from india team
 One more changes
+=======
+accessed file from india side
+>>>>>>> master
